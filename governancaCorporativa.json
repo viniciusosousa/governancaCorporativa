@@ -1,41 +1,364 @@
-{
+﻿{
   "Conceitos": {
-    "IBGC": "Governan�a corporativa � o sistema pelo qual as sociedades s�o dirigidas e monitoradas, envolvendo os relacionamentos entre acionistas/cotistas, conselho e administra��o, diretoria, auditoria independente e conselho fiscal. As boas pr�ticas de governan�a corporativa t�m a finalidade de aumentar o valor da sociedade, facilitar seu acesso ao capital e contribuir para a sua perenidade. ",
-    "CMV": "Governan�a Corporativa � o conjunto de pr�ticas que tem por finalidade otimizar o desempenho de uma companhia ao proteger todas as partes interessadas, tais como investidores, empregados e credores, facilitando o acesso ao capital. A an�lise das pr�ticas de governan�a corporativa aplicada ao mercado de capitais envolve, principalmente: transpar�ncia, equidade de tratamento dos acionistas e presta��o de contas.",
-    " Novo C�digo": "�Governan�a corporativa � o sistema pelo qual as empresas e demais organiza��es s�o dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre s�cios, conselho de administra��o, diretoria, �rg�os de fiscaliza��o e controle e demais partes interessadas. As boas pr�ticas de governan�a corporativa convertem princ�pios b�sicos em recomenda��es objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econ�mico de longo prazo da organiza��o, facilitando seu acesso a recursos e contribuindo para a qualidade da gest�o da organiza��o, sua longevidade e o bem comum"
+    "IBGC": "Governança corporativa é o sistema pelo qual as sociedades são dirigidas e monitoradas, envolvendo os relacionamentos entre acionistas/cotistas, conselho e administração, diretoria, auditoria independente e conselho fiscal. As boas práticas de governança corporativa têm a finalidade de aumentar o valor da sociedade, facilitar seu acesso ao capital e contribuir para a sua perenidade. ",
+    "CMV": "Governança Corporativa é o conjunto de práticas que tem por finalidade otimizar o desempenho de uma companhia ao proteger todas as partes interessadas, tais como investidores, empregados e credores, facilitando o acesso ao capital. A análise das práticas de governança corporativa aplicada ao mercado de capitais envolve, principalmente: transparência, equidade de tratamento dos acionistas e prestação de contas.",
+    " Novo Código": "“Governança corporativa é o sistema pelo qual as empresas e demais organizações são dirigidas, monitoradas e incentivadas, envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas. As boas práticas de governança corporativa convertem princípios básicos em recomendações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor econômico de longo prazo da organização, facilitando seu acesso a recursos e contribuindo para a qualidade da gestão da organização, sua longevidade e o bem comum"
   },
   "Nascimento": {
-    "Raizes da Governan�a": {
-      "Agigantamento das companhias": "<ul>\n<li>Fim da era dos <b>propriet�rios controladores</b></li>\n<li>Amplo processo de <b>dilui��o do controle</b></li>\n<li>Substitui��o de fundadores/sucessores por <b>administradores n�o propiet�rios</b></li>"
+    "Raizes da Governança": {
+      "Agigantamento das companhias": [
+        "Fim da era dos <b>proprietários controladores</b>",
+        "Amplo processo de <b>diluição do controle</b>",
+        "Substituição de fundadores/sucessores por <b>administradores não propietários</b>"
+      ],
+      "Tragédia dos comuns": "A tragédia dos comuns (ou \"Tragédia dos bens comuns\"),\n é uma situação em que indivíduos agindo de forma independente e \nracionalmente de acordo com seus próprios interesses se comportam em \ncontrariedade aos melhores interesses de uma comunidade, esgotando algum\n recurso comum.",
+      "Dilema do prisioneiro": "Dois suspeitos, A e B, são presos pela polícia. A polícia tem provas \ninsuficientes para os condenar, mas, separando os prisioneiros, oferece a\n ambos o mesmo acordo: se um dos prisioneiros, confessando, testemunhar \ncontra o outro e esse outro permanecer em silêncio, o que confessou sai \nlivre enquanto o cúmplice silencioso cumpre 10 anos de sentença. Se \nambos ficarem em silêncio, a polícia só pode condená-los a 6 meses de \ncadeia cada um. Se ambos traírem o comparsa, cada um leva 5 anos de \ncadeia. Cada prisioneiro faz a sua decisão sem saber que decisão o outro\n vai tomar, e nenhum tem certeza da decisão do outro. A questão que o dilema propõe é: o que vai acontecer? Como o prisioneiro vai reagir?",
+      "Equilibrio de Nash": "suponha que há um jogo com n participantes. No decorrer deste jogo, cada um dos n participantes seleciona sua melhor estratégia,\n ou seja, aquela que lhe traz o maior benefício. Então, se cada jogador \nchegar à conclusão que ele não tem como melhorar sua estratégia dadas as\n estratégias escolhidas pelos seus n-1 adversários (estratégias \ndos adversários não podem ser alteradas), então as estratégias \nescolhidas pelos participantes deste jogo definem um \"equilíbrio de \nNash\". representa uma situação em que, em um jogo envolvendo dois ou mais jogadores, nenhum jogador tem a ganhar mudando sua estratégia unilateralmente"
     },
-    "Fatores determinantes da evolu��o": "",
-    "Despertar da governan�a": ""
+    "Fatores determinantes da evolução": "",
+    "Despertar da governança": ""
   },
-  "Hist�rico": {
-    "(1988)Monks": "",
-    "(1992)Cadbury": "",
-    "(1994)Princ�pios OCDE": "",
-    "(2002)Lei Sarbanes-Oxley": "",
+  "Histórico": {
+    "(1988)Monks": {
+      "Motivações": [
+        "Inconformidade com as práticas de Executivos e  a passividade dos acionistas (Conflitos de Agência)",
+        "Criação de comitês com alta representatividade envolvendo corporações, mercado acionário e órgãos reguladores – Aperfeiçoamento dos processos de Gestão",
+        "Organização Multilateral da organização como um todo – Exposição de práticas danosas  Intervenção dos proprietários - Embrião da Governança",
+        "Regulação e Conformidade Legal: Constituição e funcionamento de Conselhos – Postura ética e maximização de Resultados – Prestação de contas"
+      ],
+      "Resultados": {
+        "Imediatos": [
+          "Revelação de desvios ",
+          "Definição de estratégias para prosperidade compartilhada ",
+          "Exposição de falhas no cumprimento da legislação ",
+          "Mobilização de acionistas ",
+          "Respeito pelos direitos dos Proprietários"
+        ],
+        "Longo Prazo": [
+          "Institucionalização de Práticas de Governança ",
+          "Maior capacidade técnica dos Proprietários e Executivos de influir no negócio ",
+          "Maior eficácia na geração de resultados, alocação de recursos e corporações mais confiáveis e justas."
+        ]
+      }
+    },
+    "(1992)Cadbury": {
+      "Conselho de Administração": "Foco na separação de responsabilidades Conselho/Direção e na constituição de Conselhos de Administração",
+      "Relatório Cadbury - Responsabilidades": {
+        "Conselho de Administração": [
+          " Deve reunir-se regularmente, manter controle sobre a companhia e monitorar a Direção ",
+          " Clareza no que pertence ao Conselho e à Direção ",
+          " Equilíbrio de poder e autoridade ",
+          " Constituição mista com conselheiros externos independentes ",
+          " Não cumulação dos cargos de Presidente do Conselho e Diretor Executivo (CEO) ",
+          " Pleno acesso ao aconselhamento do principal executivo"
+        ],
+        "Conselheiros não Executivos": [
+          " Exercer julgamentos independentes sobre a estratégia, o desempenho, a alocação de recursos e os padrões de conduta da Companhia ",
+          " Ausência de quaisquer conflitos de interesses ",
+          " Eleitos por mandatos determinados ",
+          " Escolhidos por processo formal ",
+          " Maioria deverá ser independente da direção"
+        ],
+        "Conselheiros Executivos": [
+          " É admitida a existência de Conselheiros que exercem cargos de  direção ",
+          " Contratos não deverão exceder 3 anos sem a aprovação dos acionistas ",
+          " Remuneração divulgada total e claramente ",
+          " Explicitação das bases de avaliação de desempenho"
+        ],
+        "Relatórios e Controles": [
+          " É dever do Conselhor apresentar avaliação equilibrada e compreensível da situação da Companhia ",
+          " Assegurar relação objetiva e profissional com os auditores ",
+          " Implantar comitês de auditoria com pelo menos três conselheiros não executivos e com clara definição de autoridade e responsabilidades ",
+          " Reportar sobre a eficácia do sistema interno de controle da companhia."
+        ]
+      }
+    },
+    "(1994)Princípios OCDE": {
+      "Conceito": "Os princípios de Governança Corporativa da OCDE são reconhecidos internacionalmente e visam garantir a integridade das corporações em seus processos de gestão, e de relacionamento com as partes interessadas, também com o propósito de manter a saúde das organizações e sua estabilidade",
+      "Objetivo": " A OCDE, por meio dos princípios, visa assessorar governos membros e não membros da OCDE em seus esforços de avaliação e aperfeiçoamento da estrutura jurídica, institucional para adoção da governança corporativa em seus países, além de proporcionar orientação e sugestões para bolsas de valores, investidores, empresas e outras entidades que desempenhem algum papel no processo de desenvolvimento de boa governança corporativa.",
+      "Princípios": {
+        "I.Garantir a base para um sistema eficaz de GC": "Promover mercados transparentes e eficazes e dividir as responsabilidades entre todos os envolvidos (reguladores, executivos...)",
+        "II.Direitos dos acionistas e principais funções da propriedade": "A GC deve proteger e facilitar os direitos dos acionistas ",
+        "III.Tratamento equitativo dos acionistas": "A GC deve proteger o tratamento equitativo de todos os acionistas, tanto minoritários como estrangeiros ",
+        "IV.Papel de outras partes interessadas na GC": "A GC deve reconhecer os direitos de outras partes interessadas e fomentar a cooperação entre todos os envolvidos buscando empregos, riqueza e sustentabilidade.",
+        "V.Divulgação e transparência": "A GC deve garantir a divulgação precisa e oportuna de todas as questões relacionadas com a corporação (situação financeira, desempenho, composição societária e governança da empresa.",
+        "VI.Responsabilidades do Conselho de Administração": "A GC deve garantir a orientação estratégica da empresa, o monitoramento eficiente da administração pelo conselho e a prestação de contas pelo conselho à empresa e aos acionistas."
+      }
+    },
+    "(2002)Lei Sarbanes-Oxley": {
+      "Surgimento": "A lei Sarbanes-Oxley de 2002 reescreveu, literalmente, as regras para a governança corporativa. A nova legislação promove grandes alterações nos procedimentos e no controle de administração das empresas, órgãos reguladores responsáveis pelo estabelecimento de normas, comitês de auditoria e firmas de auditoria independente. Contudo, sob a infinidade de páginas da lei, repleta de legalismos, reside uma premissa simples: a boa governança corporativa e as práticas éticas do negócio não são mais requintes – são leis",
+      "Tópicos": [
+        "Promulgado em 30 de julho de 2002.",
+        "Recuperação da credibilidade do investidor norte-americano.",
+        "Ágios e deságios de governança, claramente sinalizados nos mercados de capitais, em todas as partes do mundo.",
+        "Controle efetivo das corporações: dos executivos-chefe(nãoproprietários usufrutuários) para conselhos de administração (agentes fiduciários dos acionistas).",
+        "Códigos de ética das companhias deixam de ser peças pro forma.",
+        "Processos formais de governança mais bem-fundamentados.",
+        "Redução de conflitos e de custos de agência.",
+        "Maior proteção ao investidor, através de regras relativas à prestação de informações (disclosure), à responsabilidade dos administradores de companhias abertas (liability), bem como a de seu respectivo cumprimento (enforcement).",
+        "Comitê de Auditoria - Aplicável a todas as empresas; Independência e remuneração exclusiva pela função.",
+        "Controles e procedimentos internos para emissão de relatórios financeiros. Processos formais de governança mais bemfundamentados.",
+        "Criação de comitês encarregados de supervisionar atividades e operações."
+      ]
+    },
     "(2008)Crise Financeira": ""
   },
-  "GC no Brasil": {},
-  "Conflitos de ag�ncia": {},
-  "Princ�pios": {},
-  "Pilares": {},
-  "Estrutura": {
-    "S�cios": {},
-    "Conselho de Administra��o": {},
-    "Diretoria Executiva": {},
-    "Auditoria Independente": {},
-    "Conselho Fiscal": {},
-    "Controle e Conflito de interesse": {}
+  "GC no Brasil": {
+    "1999": "Primeiro código sobre governança corporativa elaborado pelo IBGC.",
+    "2000": "Primeiro Congresso Brasileiro de Governança Corporativa",
+    "2002": "CVM lança sua cartilha sobre Governança Corporativa.",
+    "2009": "Instrução CVM 480/2009",
+    "Início da década de 90. ": "Debates ",
+    "Nov/1995": "Fundação do IBGC",
+    "Final do ano de 2000": "Criação pela BOVESPA de segmentos especiais de listagem de empresas, em função de padrões de Governança Corporativa.",
+    "2001 - mudanças na Lei das S/A (10.303/2001)": [
+      "Fortalecimento do mercado de Capitais",
+      "Proporção de ações preferenciais.",
+      "Direitos especiais para as ações preferenciais.",
+      "Direito de recesso em determinadas hipóteses de cisão de companhia.",
+      "Regras de atuação do conselheiro fiscal.",
+      "Tag along.",
+      "Procedimentos prévios realização das assembleias.",
+      "Possibilidade de arbitragem como forma de solução dos conflitos."
+    ],
+    "2009 ": "Instrução CVM 480/2009",
+    "2016 - Lei das estatais (13.303/2016)": [
+      "Cargos de presidente, diretores e membros do conselho de administração",
+      "Pessoas com experiência na área e formação acadêmica compatível",
+      "Não podem ser indicados: ministros, secretários, dirigentes partidários, senadores, deputados e vereadores",
+      "Pessoas que participaram de campanhas políticas tem que esperar pelo menos 3 anos."
+    ]
+  },
+  "Conflitos de agência": {
+    "Conceito": "Os interesses do gestor nem sempre estarão alinhados com os do proprietário, resultando em um conflito de agência ou mesmo do acionista Majoritário nem sempre alinhado com o minoritário",
+    "Origem": "o conflito de agência, decorrente da separação entre a propriedade e a gestão empresarial. Ao investir numa organização, o proprietário (acionista) delega a um agente especializado (executivo) o poder de decisão sobre sua propriedade",
+    "Temas Polêmicos": [
+      "Recursos para capitalização",
+      "Remuneração dos executivos",
+      "Serviços e Consultorias",
+      "Informações sobre resultados, oportunidades e riscos "
+    ],
+    "Conflitos": [
+      "Decisões que maximizam a riqueza do acionista.",
+      "Decisões que maximizam os interesses dos gestores.",
+      "Foco dos administradores em gerenciar as expactativas do mercado para maximizar a sua remuneração ao invés de se concentrar nas operações",
+      "Foco em ganhos de curto prazo mesmo que isso implique em passivos futuros que não serão arcados integralmente pelos acionistas."
+    ],
+    "Gestores como agentes executores": [
+      "Decisões empresariais do dia-a-dia",
+      "Domínio do negócio (operações)",
+      "Conhecimento profundo da gestão",
+      "Implementação da estratégia"
+    ],
+    "Gestores Oportunistas": [
+      "Benefícios exorbitantes autoconcedidos",
+      "Crescimento da empresa em detrimento da maximização do retorno",
+      "Participação em empresas clientes ou fornecedores"
+    ],
+    "Acionistas como agentes orientadores e decisores": [
+      "Decisões estratégica e financeiras",
+      "Decisão de alocação de recursos",
+      "Monitoria e diversificação de riscos"
+    ],
+    "Acionistas Oportunistas": [
+      "Uso fechado de informações privilegiadas",
+      "Autonomeações e nepotismo",
+      "Cooptação de colegiados corporativos",
+      "Estuturas piramidais de controle"
+    ]
+  },
+  "Pilares": {
+    "Melhores práticas": {},
+    "Pilares": {
+      "Sócios": [
+        " Propriedade – sócios ",
+        " Conceito “uma ação = um voto” ",
+        " Acordos entre os sócios ",
+        "Assembleia Geral/reunião de sócios ",
+        "Mecanismos de proteção à tomada de controle (poison pills)",
+        "Condições de saída de sócios ",
+        "Mediação e arbitragem",
+        "Conselho de Família"
+      ],
+      "Conselho de Administração": {
+        "Papel do Conselho": [
+          "A missão do Conselho de Administração é proteger e valorizar a organização, otimizar o retorno do investimento no longo prazo e buscar o equilíbrio entre os anseios das partes interessadas (shareholders e demais stakeholders), de modo que cada uma receba benefício apropriado e proporcional ao vínculo que possui com a organização e ao risco a que está exposta.",
+          "Proteger e valorizar o patrimônio.",
+          "Ter conhecimento dos valores e propósitos da empresa.",
+          "Zelar pelo seu aprimoramento",
+          "Prevenir e administrar situações de conflitos de interesses"
+        ],
+        "Atuação": [
+          "Encarregado do processo de decisão de uma organização",
+          "Elo entre a propriedade e a gestão; ",
+          "Recebe poderes dos sócios e presta contas a eles;",
+          "É o guardião do objeto social e do sistema de Governança; ",
+          "Decide os rumos do negócio, conforme o melhor interesse da organização; ",
+          "Sempre decide em favor do melhor interesse da organização como um todo, independentemente das partes que indicaram ou elegeram seus membros",
+          "Eleição e destituição do Administrador Delegado (CEO). ",
+          "Acompanhamento da gestão. ",
+          "Monitoramento dos riscos. ",
+          "Indicação ou substituição dos auditores independentes.",
+          "Definição da estratégia",
+          "Aprovação da escolha ou dispensa dos demais executivos. "
+        ],
+        "Competências": [
+          "Conhecimento – Finanças, Contábeis, Jurídicos, dos Negócios da empresa, do Mercado nacional e internacional",
+          "Experiência - participação em outros conselhos, como presidente executivo",
+          "Administrar de crises, em identificação e controle de riscos, em gestão de pessoas.",
+          "Visão estratégica; ",
+          "Ausência de conflito de interesse fundamental (não administrável); ",
+          "Conhecimento das melhores práticas de GC; ",
+          "Percepção do perfil de risco da organização ",
+          " Responsabilidade com as partes interessadas daquela organização",
+          "Noções de legislação societária",
+          "Participação além da presença nas reuniões do conselho e na leitura da documentação prévia.",
+          "Dedicar o tempo necessário para o novo conselho ",
+          "Comprometimento e participação atenta: criação de valor",
+          "Capacidade de ler e entender relatórios gerenciais, contábeis e financeiros; ",
+          "Capacidade para trabalho em equipe; "
+        ],
+        "Composição": [
+          "Entre 5 e 11 pessoas de maioria externa e independente",
+          "Mandato: não superior a dois anos ",
+          "Renovação deve resultar de avaliação anual",
+          "Presidente do CA e presidente executivo são pessoas distintas",
+          "Conselheiros Internos, Externos e Independentes",
+          "Remuneração aprovada pela AGOA ",
+          "Avaliação dos membros"
+        ]
+      },
+      "Diretoria Executiva": [
+        "Atribuições",
+        "Indicação dos diretores",
+        "Relacionamento com as partes interessadas (stakeholders)",
+        "Transparência Relatórios periódicos",
+        "Código de Conduta",
+        "Remuneração dos gestores"
+      ],
+      "Auditoria Independente": [
+        "Auditoria Independente",
+        "Parecer dos auditores independentes",
+        "Contratação, remuneração, retenção e destituição",
+        "Recomendações do auditor independente",
+        "Contratação e independência",
+        "Serviços extra-auditoria",
+        "Normas profissionais de independência"
+      ],
+      "Conselho Fiscal": [
+        "Relacionamento com os sócios",
+        "Relacionamento com o Comitê de Auditoria",
+        "Relacionamento com os auditores independentes",
+        "Relacionamento com a Auditoria Interna",
+        "Remuneração do Conselho Fiscal",
+        "Pareceres do Conselho Fiscal"
+      ],
+      "Controle e Conflito de interesse": [
+        "Uso de informação privilegiada (insider information)",
+        "Política de negociação de ações",
+        "Política de divulgação de informações",
+        "Política sobre contribuições e doações",
+        "Política de combate a atos ilícitos"
+      ]
+    },
+    "Princípios": {
+      "Transparência": [
+        "Desejo de disponibilizar para as partes interessadas as informações que sejam de seu interesse e não apenas naquelas impostas por disposições de leis ou regulamentos.",
+        "A adequada transparência resulta em um clima de confiança, tanto internamente quanto nas relações da empresa com terceiros.",
+        " Não deve restringir-se ao desempenho econômico-financeiro, contemplando também os demais fatores (inclusive intangíveis) que norteiam a ação gerencial e que conduzem a criação de valor."
+      ],
+      "Equidade": [
+        "Caracteriza-se pelo tratamento justo de todos os sócios e demais partes interessadas (stakeholders).",
+        "Atitudes ou políticas discriminatórias, sob qualquer pretexto, são totalmente inaceitáveis."
+      ],
+      "Prestação de Contas": [
+        "Os agentes de governanca devem prestar contas de sua atuação, assumindo integralmente as conseqüências de seus atos e omissões."
+      ],
+      "Responsabilidade Corporativa": [
+        "Os agentes de governança devem zelar pela sustentabilidade das organizações, visando a sua longevidade, incorporando considerações de ordem social e ambiental na definição dos negócios e operações."
+      ]
+    }
   },
   "Sistemas": {
-    "Outsider System": "",
-    "Insider System": ""
+    "Outsider System (Sistema de governança anglo-saxão - Estados Unidos e Reino Unido)": "acionistas pulverizados e tipicamente fora do comando diário das operações da companhia\n- Estrutura de propriedade dispersa nas grandes empresas;\n- Papel importante do mercado de ações na economia;\n- Ativismo e grande porte dos investidores institucionais;\n- Foco na maximização do retorno para os acionistas (shareholder oriented)",
+    "Insider System(Sistema de governança da Europa Continental, Brasil e Japão)": "grandes acionistas tipicamente no comando das operações diárias, diretamente ou via pessoas de sua indicação\n- Estrutura de propriedade mais concentrada; \n- Presença de conglomerados industriais-financeiros;\n - Baixo ativismo e menor porte dos investidores institucionais; \n- Reconhecimento mais explícito e sistemático de outros stakeholders não financeiros, principalmente funcionários (stakeholder oriented)."
   },
-  "Modelos de Governan�a": {},
-  "Segmentos Bovespa": {},
-  "Evolu��o": {},
+  "Modelos de Governança": {
+    "Variaveis": {
+      "Fonte de financiamento das empresas": {
+        "Relação": [
+          "fatores culturais",
+          "desenvolvimento do mercado de capitais",
+          "instrumentos financeiros desenvolvidos no país ",
+          "tipo de controle das empresas (difuso ou concentrado).",
+          "desenvolvimento do setor bancário",
+          "propensão ao risco"
+        ],
+        "Debt x Equity": " predominância de Debt ou de Equity vai influenciar também no Conflito de Agência existente",
+        "Por modelo": "Equity(Anglo-saxão) Debt(Alemão/Japonês/Latinoamericano) Indefinido(Latinoeuropeu)"
+      },
+      "Nível de separação propriedade e controle": {
+        "Por Modelo": "Disperso(Anglo-saxão) Concentrado(Alemão) Concentrado com cruzamentos(Japonês) Concentrado(Latinoeuropeu) e familiar(Latinoamericano)"
+      },
+      "Tipo de conflito de agência": {
+        "Por modelo": "Acionistas x direção(Anglo-saxão) Credores x acionistas(Alemão/Japonês) Controladores x minoritários(Latinoeuropeu/Latinoamericano)"
+      },
+      "Legislação e regulação": {
+        "Por Modelo": "Forte (Anglo-saxão) Baixa(Alemão/Japonês) Fraca(Latinoeuropeu/Latinoamericano)"
+      },
+      "Liquidez das ações": {
+        "Por modelo": "Muito alta(Anglo-saxão) Baixa(Alemão) Em evolução(Japonês) Baixa (Latinoeuropeu)  Especulativa (Latinoamericano)"
+      },
+      "Estágio da governança": {}
+    }
+  },
+  "Segmentos Bovespa": {
+    "Tradicional": [
+      "cumprem apenas as exigências mínimas da legislação brasileira a respeito das companhias de capital aberto.",
+      "Não há regras para free float",
+      " Tag along de 80% (mínimo permitido pela Lei das S/A para ON e 70% PN.)",
+      " baixo nível de Governança Corporativa"
+    ],
+    " Nível 1 ": [
+      " devem adotar práticas que favoreçam a transparência e o acesso às informações pelos investidores. ",
+      "divulgam informações adicionais às exigidas em lei, como por exemplo, um calendário anual de eventos corporativos. ",
+      "O free float mínimo de 25% deve ser mantido nesse segmento"
+    ],
+    "Nível 2": [
+      "é similar ao Novo Mercado",
+      "As empresas listadas têm o direito de manter ações preferenciais (PN)",
+      " No caso de venda de controle da empresa, é assegurado aos detentores de ações ordinárias e preferenciais o mesmo tratamento concedido ao acionista controlador, prevendo, portanto, o direito de tag along de 100% do preço pago pelas ações ordinárias do acionista controlador. ",
+      "As ações preferenciais ainda dão o direito de voto aos acionistas em situações críticas, como a aprovação de fusões e incorporações da empresa e contratos entre o acionista controlador e a empresa, sempre que essas decisões estiverem sujeitas à aprovação na assembleia de acionista"
+    ],
+    "Novo Mercado": [
+      "padrão de governança corporativa altamente diferenciado",
+      " se tornou o padrão de transparência e governança exigido pelos investidores para as novas aberturas de capital",
+      "é recomendado para empresas que pretendem fazer ofertas grandes e \ndirecionadas a qualquer tipo de investidor (investidores institucionais,\n pessoas físicas, estrangeiros etc.).",
+      " firmou-se como uma seção destinada à negociação de ações de empresas que adotam, voluntariamente, práticas de governança corporativa adicionais às que são exigidas pela legislação brasileira. ",
+      "A listagem nesse segmento especial implica na adoção de um conjunto de regras societárias que ampliam os direitos dos acionistas",
+      "adoção de uma política de divulgação de informações mais transparente e abrangente.",
+      "As empresas listadas nesse segmento podem emitir apenas ações com direito de voto, as chamadas ações ordinárias (ON).",
+      "Capital composto exclusivamente por ações ordinárias com direito a voto; ",
+      "No caso de venda do controle (tag along de 100%); ",
+      "O conselho de administração deve ser composto por pelo menos cinco membros, sendo 20% dos conselheiros independentes, com mandato máximo de dois anos; ",
+      "A empresa também se compromete a manter, no mínimo, 25% das ações em circulação (free float); ",
+      "Relatórios financeiros completos - Trimestral - revisados auditor independente; ",
+      "Relatórios financeiros anuais em padrão internacionalmente aceito; ",
+      "Necessária divulgação mensal das negociações com valores mobiliários da empresa pelos diretores, executivos e acionistas controladores."
+    ],
+    " Bovespa Mais": [
+      " mesmos padrões do Novo Mercado, porém é destinado às empresas de menor porte  que não conseguem arcar com os altos custos envolvidos com a abertura de capital",
+      "free float de 25% seja atingido em até 7 anos após a listagem ",
+      " mesmo que esse valor não seja atingido, a companhia continuará listada no segmento, desde que apresente um nível mínimo de liquidez (10 negociações por mês e presença em 25% dos pregões).",
+      "As empresas listadas no Bovespa Mais assumem compromissos de elevados padrões de governança corporativa e transparência com o mercado.",
+      "Convênio com a APIMEC - BM&FBOVESPA honra custos da confecção de 4 relatórios de research (sendo 2 relatórios por ano, a partir da listagem)."
+    ],
+    " Bovespa Mais Nível 2 ": [
+      " é similar ao Bovespa Mais, porém com algumas exceções. As empresas listadas têm o direito de manter ações preferenciais (PN).",
+      "No caso de venda de controle da empresa, é assegurado aos detentores de ações ordinárias e preferenciais o mesmo tratamento concedido ao acionista controlador, prevendo, portanto, o direito de tag along de 100% do preço pago pelas ações ordinárias do acionista controlador",
+      "As ações preferenciais ainda dão o direito de voto aos acionistas em situações críticas, como a aprovação de fusões e incorporações da empresa e contratos entre o acionista controlador e a empresa, sempre que essas decisões estiverem sujeitas à aprovação na assembleia de acionistas."
+    ]
+  },
+  "Evolução": {},
   "Desafios": {}
 }
